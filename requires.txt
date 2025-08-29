@@ -1,0 +1,12 @@
+torch>=2.0.0
+redis
+wandb
+rlgym-tools>=1.0.0
+rlgym>=2.1.0
+numpy
+gymnasium>=0.28.0
+prettytable
+rocket-learn>=0.1.0
+keyboard
+rlbot>=1.0.0
+pygame

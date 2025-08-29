@@ -1,0 +1,34 @@
+# SSL Learner Requirements
+# Complete SSL learning system dependencies
+
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.5.0
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+yt-dlp>=2023.1.0
+
+# Windows-specific dependencies
+pywin32>=227
+psutil>=5.8.0
+
+# Data handling
+pickle-mixin>=1.0.2
+
+# Optional: For enhanced video processing
+Pillow>=8.0.0
+matplotlib>=3.3.0
+
+# Optional: For advanced machine learning
+scikit-learn>=1.0.0
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Optional: For enhanced game control
+keyboard>=0.13.0
+mouse>=0.7.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
