@@ -1,0 +1,94 @@
+# Ultimate Opti Training Requirements
+# Complete requirements for the ultimate SSL-level bot training system
+
+# Core ML Framework with CUDA support
+torch>=2.1.0
+torchvision>=0.16.0
+
+# RLGym v2 with full feature set
+rlgym[rl-rlviser]>=2.0.0
+
+# RLGym-PPO for training
+git+https://github.com/AechPro/rlgym-ppo
+
+# Rocket-Learn for distributed training
+git+https://github.com/Rolv-Arild/rocket-learn
+
+# Scientific computing and data processing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Redis for distributed coordination
+redis>=5.0.0
+
+# Professional monitoring and logging
+wandb>=0.16.0
+tensorboard>=2.14.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# Configuration management
+pyyaml>=6.0
+dataclasses-json>=0.6.0
+omegaconf>=2.3.0
+
+# System monitoring and optimization
+psutil>=5.9.0
+gpustat>=1.1.0
+nvidia-ml-py>=12.535.0
+
+# Async and parallel processing
+asyncio
+multiprocessing-logging>=0.3.4
+concurrent-futures>=3.1.1
+
+# Game integration (Windows-specific)
+pywin32>=227; sys_platform == "win32"
+win32gui>=221; sys_platform == "win32"
+keyboard>=0.13.5; sys_platform == "win32"
+mouse>=0.7.1; sys_platform == "win32"
+
+# GUI and visualization
+tkinter
+pygame>=2.5.0
+
+# Development and testing tools
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0
+mypy>=1.5.0
+flake8>=6.0.0
+
+# Performance optimization
+numba>=0.58.0
+cython>=3.0.0
+
+# Optional: Advanced RL libraries
+# stable-baselines3>=2.0.0
+# ray[rllib]>=2.7.0
+
+# Optional: Computer vision (for game state analysis)
+# opencv-python>=4.8.0
+# pillow>=10.0.0
+
+# Optional: Audio processing (for game audio analysis)
+# librosa>=0.10.0
+# sounddevice>=0.4.6
+
+# HTTP and networking
+requests>=2.31.0
+urllib3>=2.0.0
+
+# JSON and serialization
+orjson>=3.9.0
+msgpack>=1.0.0
+
+# Utilities
+tqdm>=4.66.0
+rich>=13.6.0
+click>=8.1.0

@@ -1,0 +1,12 @@
+/target
+/.*/**
+/assets*
+assets.path
+umodel*
+*.log
+*.tfc
+*.csv
+settings.txt
+/collision_meshes
+/cache
+/.cargo
