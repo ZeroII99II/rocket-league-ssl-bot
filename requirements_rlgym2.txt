@@ -1,0 +1,21 @@
+# RLGym v2 Training Requirements
+# Install these in a fresh virtual environment
+
+# Core ML Framework
+torch>=2.0.0
+
+# RLGym v2 with RocketSim and RLViser support
+rlgym[rl-rlviser]>=2.0.0
+
+# RLGym-PPO for training
+git+https://github.com/AechPro/rlgym-ppo
+
+# Essential scientific computing
+numpy>=1.21.0
+
+# Optional: Weights & Biases for experiment tracking
+wandb>=0.15.0
+
+# Optional: Additional utilities
+psutil>=5.8.0
+pyyaml>=6.0
