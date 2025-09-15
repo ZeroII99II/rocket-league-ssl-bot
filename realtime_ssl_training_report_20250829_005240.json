@@ -1,0 +1,57 @@
+{
+  "total_training_time": 0.07083161916997698,
+  "training_sessions": 1,
+  "total_reports": 0,
+  "total_errors": 0,
+  "learning_sources": [
+    "Twitch: Rocket League Community"
+  ],
+  "final_data": {
+    "total_actions": 1471,
+    "real_data_count": 1000,
+    "total_episodes": 752,
+    "mode_data": {
+      "1s": {
+        "actions": 1003,
+        "accuracy": 1.0,
+        "skills": [
+          "aerial",
+          "rotation",
+          "save",
+          "boost",
+          "shot",
+          "dribble",
+          "demo"
+        ]
+      },
+      "2s": {
+        "actions": 1016,
+        "accuracy": 1.0,
+        "skills": [
+          "aerial",
+          "save",
+          "boost",
+          "rotation",
+          "shot",
+          "dribble",
+          "demo"
+        ]
+      },
+      "3s": {
+        "actions": 998,
+        "accuracy": 1.0,
+        "skills": [
+          "shot",
+          "boost",
+          "save",
+          "demo",
+          "dribble",
+          "aerial",
+          "rotation"
+        ]
+      }
+    }
+  },
+  "ssl_achieved": false,
+  "timestamp": "2025-08-29T00:52:40.570175"
+}

@@ -1,0 +1,2894 @@
+[
+  {
+    "timestamp": 1756454806.8814335,
+    "ssl_level": 0.001,
+    "reward": 0.0,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454806.9204311,
+    "ssl_level": 0.002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454806.9504378,
+    "ssl_level": 0.003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454806.9832911,
+    "ssl_level": 0.004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.0142965,
+    "ssl_level": 0.005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.0463052,
+    "ssl_level": 0.006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.0783117,
+    "ssl_level": 0.007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.1103194,
+    "ssl_level": 0.008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.141325,
+    "ssl_level": 0.009000000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.173333,
+    "ssl_level": 0.010000000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.2053394,
+    "ssl_level": 0.011000000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.237347,
+    "ssl_level": 0.012000000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.2693546,
+    "ssl_level": 0.013000000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.3013623,
+    "ssl_level": 0.014000000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.3343692,
+    "ssl_level": 0.015000000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.3673756,
+    "ssl_level": 0.016000000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.3983836,
+    "ssl_level": 0.017000000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.4303904,
+    "ssl_level": 0.01800000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.463398,
+    "ssl_level": 0.01900000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.4944046,
+    "ssl_level": 0.02000000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.5234118,
+    "ssl_level": 0.02100000000000001,
+    "reward": 1.35,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.556418,
+    "ssl_level": 0.022000000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.5884311,
+    "ssl_level": 0.023000000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.6204367,
+    "ssl_level": 0.024000000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.6524444,
+    "ssl_level": 0.025000000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.6844566,
+    "ssl_level": 0.026000000000000016,
+    "reward": 6.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.7164626,
+    "ssl_level": 0.027000000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.7494707,
+    "ssl_level": 0.028000000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.7804835,
+    "ssl_level": 0.02900000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.8134894,
+    "ssl_level": 0.03000000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.8444989,
+    "ssl_level": 0.03100000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.8765037,
+    "ssl_level": 0.03200000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.908511,
+    "ssl_level": 0.03300000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.9405184,
+    "ssl_level": 0.03400000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454807.9725251,
+    "ssl_level": 0.035000000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.0045323,
+    "ssl_level": 0.036000000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.0365393,
+    "ssl_level": 0.037000000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.0685475,
+    "ssl_level": 0.03800000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.1005542,
+    "ssl_level": 0.03900000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.135562,
+    "ssl_level": 0.04000000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.1665695,
+    "ssl_level": 0.04100000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.1975818,
+    "ssl_level": 0.04200000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.2295887,
+    "ssl_level": 0.04300000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.263596,
+    "ssl_level": 0.04400000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.2914276,
+    "ssl_level": 0.04500000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.3234358,
+    "ssl_level": 0.046000000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.3554428,
+    "ssl_level": 0.047000000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.3874528,
+    "ssl_level": 0.048000000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.41946,
+    "ssl_level": 0.04900000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.4514673,
+    "ssl_level": 0.05000000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.4828153,
+    "ssl_level": 0.05100000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.515822,
+    "ssl_level": 0.05200000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.5478287,
+    "ssl_level": 0.05300000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.5798395,
+    "ssl_level": 0.05400000000000004,
+    "reward": 11.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.6118474,
+    "ssl_level": 0.05500000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.6428545,
+    "ssl_level": 0.05600000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.6738596,
+    "ssl_level": 0.057000000000000044,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.7068684,
+    "ssl_level": 0.058000000000000045,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.7378747,
+    "ssl_level": 0.059000000000000045,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.771882,
+    "ssl_level": 0.060000000000000046,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.802889,
+    "ssl_level": 0.06100000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.8348963,
+    "ssl_level": 0.06200000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.8669047,
+    "ssl_level": 0.06300000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.8989117,
+    "ssl_level": 0.06400000000000004,
+    "reward": 1.35,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.9309182,
+    "ssl_level": 0.06500000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.963927,
+    "ssl_level": 0.06600000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454808.9970617,
+    "ssl_level": 0.06700000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.024069,
+    "ssl_level": 0.06800000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.0630765,
+    "ssl_level": 0.06900000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.089083,
+    "ssl_level": 0.07000000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.1200888,
+    "ssl_level": 0.07100000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.1530972,
+    "ssl_level": 0.07200000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.185104,
+    "ssl_level": 0.07300000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.2181122,
+    "ssl_level": 0.07400000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.2491193,
+    "ssl_level": 0.07500000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.319135,
+    "ssl_level": 0.07600000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.3811483,
+    "ssl_level": 0.07700000000000005,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.4231577,
+    "ssl_level": 0.07800000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.5051758,
+    "ssl_level": 0.07900000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.5381844,
+    "ssl_level": 0.08000000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.569191,
+    "ssl_level": 0.08100000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.6062007,
+    "ssl_level": 0.08200000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.6332045,
+    "ssl_level": 0.08300000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.6692135,
+    "ssl_level": 0.08400000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.7002196,
+    "ssl_level": 0.08500000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.7292259,
+    "ssl_level": 0.08600000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.7602336,
+    "ssl_level": 0.08700000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.7922404,
+    "ssl_level": 0.08800000000000006,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.8252475,
+    "ssl_level": 0.08900000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.855255,
+    "ssl_level": 0.09000000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.8872616,
+    "ssl_level": 0.09100000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.9192688,
+    "ssl_level": 0.09200000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.9512768,
+    "ssl_level": 0.09300000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454809.9842832,
+    "ssl_level": 0.09400000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.0162914,
+    "ssl_level": 0.09500000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.0492978,
+    "ssl_level": 0.09600000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.080305,
+    "ssl_level": 0.09700000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.1123126,
+    "ssl_level": 0.09800000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.1433194,
+    "ssl_level": 0.09900000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.1753263,
+    "ssl_level": 0.10000000000000007,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.207333,
+    "ssl_level": 0.10100000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.238341,
+    "ssl_level": 0.10200000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.2703478,
+    "ssl_level": 0.10300000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.3023546,
+    "ssl_level": 0.10400000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.3353622,
+    "ssl_level": 0.10500000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.3673697,
+    "ssl_level": 0.10600000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.3983777,
+    "ssl_level": 0.10700000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.4313838,
+    "ssl_level": 0.10800000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.4623916,
+    "ssl_level": 0.10900000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.4954,
+    "ssl_level": 0.11000000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.525405,
+    "ssl_level": 0.11100000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.5574126,
+    "ssl_level": 0.11200000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.5884209,
+    "ssl_level": 0.11300000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.621426,
+    "ssl_level": 0.11400000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.6524339,
+    "ssl_level": 0.11500000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.6854408,
+    "ssl_level": 0.11600000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.7174482,
+    "ssl_level": 0.11700000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.7504563,
+    "ssl_level": 0.11800000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.7824624,
+    "ssl_level": 0.11900000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.8144703,
+    "ssl_level": 0.12000000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.8464773,
+    "ssl_level": 0.1210000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.8784845,
+    "ssl_level": 0.1220000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.9084926,
+    "ssl_level": 0.1230000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.942499,
+    "ssl_level": 0.1240000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454810.9735053,
+    "ssl_level": 0.12500000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.004512,
+    "ssl_level": 0.12600000000000008,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.03652,
+    "ssl_level": 0.12700000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.0705278,
+    "ssl_level": 0.12800000000000009,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.1025343,
+    "ssl_level": 0.1290000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.1325426,
+    "ssl_level": 0.1300000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.1655488,
+    "ssl_level": 0.1310000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.1975567,
+    "ssl_level": 0.1320000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.229563,
+    "ssl_level": 0.1330000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.2755735,
+    "ssl_level": 0.1340000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.3085818,
+    "ssl_level": 0.1350000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.3405888,
+    "ssl_level": 0.1360000000000001,
+    "reward": 11.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.3725955,
+    "ssl_level": 0.1370000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.4046035,
+    "ssl_level": 0.1380000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.4356103,
+    "ssl_level": 0.1390000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.468618,
+    "ssl_level": 0.1400000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.5006254,
+    "ssl_level": 0.1410000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.5336316,
+    "ssl_level": 0.1420000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.5656385,
+    "ssl_level": 0.1430000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.5986495,
+    "ssl_level": 0.1440000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.6326547,
+    "ssl_level": 0.1450000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.6616607,
+    "ssl_level": 0.1460000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.6926675,
+    "ssl_level": 0.1470000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.7246742,
+    "ssl_level": 0.1480000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.7566817,
+    "ssl_level": 0.1490000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.788689,
+    "ssl_level": 0.1500000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.8206964,
+    "ssl_level": 0.1510000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.8567038,
+    "ssl_level": 0.1520000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.8847122,
+    "ssl_level": 0.1530000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.9187179,
+    "ssl_level": 0.1540000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.9497256,
+    "ssl_level": 0.1550000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454811.9807324,
+    "ssl_level": 0.1560000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.0137396,
+    "ssl_level": 0.1570000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.0457478,
+    "ssl_level": 0.1580000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.0757542,
+    "ssl_level": 0.1590000000000001,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.1077604,
+    "ssl_level": 0.16000000000000011,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.1397684,
+    "ssl_level": 0.16100000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.1717746,
+    "ssl_level": 0.16200000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.2037826,
+    "ssl_level": 0.16300000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.2357898,
+    "ssl_level": 0.16400000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.2677972,
+    "ssl_level": 0.16500000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.3008049,
+    "ssl_level": 0.16600000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.3328128,
+    "ssl_level": 0.16700000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.3658197,
+    "ssl_level": 0.16800000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.4008265,
+    "ssl_level": 0.16900000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.4298337,
+    "ssl_level": 0.17000000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.4608402,
+    "ssl_level": 0.17100000000000012,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.4908466,
+    "ssl_level": 0.17200000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.5238545,
+    "ssl_level": 0.17300000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.5548608,
+    "ssl_level": 0.17400000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.5878685,
+    "ssl_level": 0.17500000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.6188772,
+    "ssl_level": 0.17600000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.6508827,
+    "ssl_level": 0.17700000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.6838899,
+    "ssl_level": 0.17800000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.716898,
+    "ssl_level": 0.17900000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.7469046,
+    "ssl_level": 0.18000000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.777912,
+    "ssl_level": 0.18100000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.8119197,
+    "ssl_level": 0.18200000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.8409257,
+    "ssl_level": 0.18300000000000013,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.8739326,
+    "ssl_level": 0.18400000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.9049394,
+    "ssl_level": 0.18500000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.938948,
+    "ssl_level": 0.18600000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454812.9709542,
+    "ssl_level": 0.18700000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.002962,
+    "ssl_level": 0.18800000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.034969,
+    "ssl_level": 0.18900000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.0669763,
+    "ssl_level": 0.19000000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.0989857,
+    "ssl_level": 0.19100000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.1309907,
+    "ssl_level": 0.19200000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.1629977,
+    "ssl_level": 0.19300000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.195006,
+    "ssl_level": 0.19400000000000014,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.2270126,
+    "ssl_level": 0.19500000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.2580214,
+    "ssl_level": 0.19600000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.2890258,
+    "ssl_level": 0.19700000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.3220336,
+    "ssl_level": 0.19800000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.3560417,
+    "ssl_level": 0.19900000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.3860476,
+    "ssl_level": 0.20000000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.4190557,
+    "ssl_level": 0.20100000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.4520626,
+    "ssl_level": 0.20200000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.482069,
+    "ssl_level": 0.20300000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.5140767,
+    "ssl_level": 0.20400000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.546085,
+    "ssl_level": 0.20500000000000015,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.57609,
+    "ssl_level": 0.20600000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.6080983,
+    "ssl_level": 0.20700000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.6401062,
+    "ssl_level": 0.20800000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.6721122,
+    "ssl_level": 0.20900000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.7041192,
+    "ssl_level": 0.21000000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.7351265,
+    "ssl_level": 0.21100000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.768134,
+    "ssl_level": 0.21200000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.8001418,
+    "ssl_level": 0.21300000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.833148,
+    "ssl_level": 0.21400000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.8651552,
+    "ssl_level": 0.21500000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.896163,
+    "ssl_level": 0.21600000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.9271708,
+    "ssl_level": 0.21700000000000016,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.9581783,
+    "ssl_level": 0.21800000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454813.9911838,
+    "ssl_level": 0.21900000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.023191,
+    "ssl_level": 0.22000000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.0541975,
+    "ssl_level": 0.22100000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.0872054,
+    "ssl_level": 0.22200000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.1192129,
+    "ssl_level": 0.22300000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.1522205,
+    "ssl_level": 0.22400000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.1842284,
+    "ssl_level": 0.22500000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.218236,
+    "ssl_level": 0.22600000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.2482429,
+    "ssl_level": 0.22700000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.2802494,
+    "ssl_level": 0.22800000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.3112566,
+    "ssl_level": 0.22900000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.3452654,
+    "ssl_level": 0.23000000000000018,
+    "reward": 11.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.3742704,
+    "ssl_level": 0.23100000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.4072778,
+    "ssl_level": 0.23200000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.4382849,
+    "ssl_level": 0.23300000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.4712915,
+    "ssl_level": 0.23400000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.5033,
+    "ssl_level": 0.23500000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.535307,
+    "ssl_level": 0.23600000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.5673141,
+    "ssl_level": 0.23700000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.6003215,
+    "ssl_level": 0.23800000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.632328,
+    "ssl_level": 0.23900000000000018,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.664336,
+    "ssl_level": 0.24000000000000019,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.6953428,
+    "ssl_level": 0.2410000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.7283506,
+    "ssl_level": 0.2420000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.7593572,
+    "ssl_level": 0.2430000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.7913644,
+    "ssl_level": 0.2440000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.823371,
+    "ssl_level": 0.2450000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.8553782,
+    "ssl_level": 0.2460000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.8863862,
+    "ssl_level": 0.2470000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.9193926,
+    "ssl_level": 0.2480000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.9513996,
+    "ssl_level": 0.2490000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454814.9854069,
+    "ssl_level": 0.25000000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.0164149,
+    "ssl_level": 0.25100000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.0484219,
+    "ssl_level": 0.25200000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.0814288,
+    "ssl_level": 0.25300000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.112437,
+    "ssl_level": 0.25400000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.143444,
+    "ssl_level": 0.25500000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.1754503,
+    "ssl_level": 0.25600000000000017,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.2074575,
+    "ssl_level": 0.2570000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.2384646,
+    "ssl_level": 0.2580000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.270471,
+    "ssl_level": 0.2590000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.3024793,
+    "ssl_level": 0.2600000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.334486,
+    "ssl_level": 0.2610000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.3674927,
+    "ssl_level": 0.2620000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.3995016,
+    "ssl_level": 0.2630000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.4315078,
+    "ssl_level": 0.2640000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.462516,
+    "ssl_level": 0.2650000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.4955223,
+    "ssl_level": 0.2660000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.526529,
+    "ssl_level": 0.2670000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.5585363,
+    "ssl_level": 0.2680000000000002,
+    "reward": 6.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.5915432,
+    "ssl_level": 0.2690000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.6225505,
+    "ssl_level": 0.2700000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.6545591,
+    "ssl_level": 0.2710000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.724574,
+    "ssl_level": 0.2720000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.7525804,
+    "ssl_level": 0.2730000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.7845876,
+    "ssl_level": 0.2740000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.8155937,
+    "ssl_level": 0.2750000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.848604,
+    "ssl_level": 0.2760000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.878609,
+    "ssl_level": 0.2770000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.9106176,
+    "ssl_level": 0.2780000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.9426234,
+    "ssl_level": 0.2790000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454815.9746294,
+    "ssl_level": 0.2800000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.0066378,
+    "ssl_level": 0.2810000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.0376468,
+    "ssl_level": 0.2820000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.070652,
+    "ssl_level": 0.2830000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.1026583,
+    "ssl_level": 0.2840000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.134666,
+    "ssl_level": 0.2850000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.167674,
+    "ssl_level": 0.2860000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.1996799,
+    "ssl_level": 0.2870000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.2316883,
+    "ssl_level": 0.2880000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.2646956,
+    "ssl_level": 0.2890000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.2957025,
+    "ssl_level": 0.2900000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.3257093,
+    "ssl_level": 0.2910000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.3587167,
+    "ssl_level": 0.2920000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.3897226,
+    "ssl_level": 0.2930000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.4227319,
+    "ssl_level": 0.2940000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.4547372,
+    "ssl_level": 0.2950000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.486746,
+    "ssl_level": 0.2960000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.519752,
+    "ssl_level": 0.2970000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.550759,
+    "ssl_level": 0.2980000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.5827665,
+    "ssl_level": 0.2990000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.616774,
+    "ssl_level": 0.3000000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.6467812,
+    "ssl_level": 0.3010000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.678789,
+    "ssl_level": 0.3020000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.7107959,
+    "ssl_level": 0.3030000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.741803,
+    "ssl_level": 0.3040000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.7738092,
+    "ssl_level": 0.3050000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.8058171,
+    "ssl_level": 0.3060000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.8378232,
+    "ssl_level": 0.3070000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.8698308,
+    "ssl_level": 0.3080000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.9018383,
+    "ssl_level": 0.3090000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.934845,
+    "ssl_level": 0.3100000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.9668531,
+    "ssl_level": 0.3110000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454816.9988594,
+    "ssl_level": 0.3120000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.030867,
+    "ssl_level": 0.3130000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.062874,
+    "ssl_level": 0.3140000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.0938818,
+    "ssl_level": 0.3150000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.1258886,
+    "ssl_level": 0.3160000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.1568947,
+    "ssl_level": 0.3170000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.1899025,
+    "ssl_level": 0.3180000000000002,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.22191,
+    "ssl_level": 0.31900000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.2549174,
+    "ssl_level": 0.32000000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.2849245,
+    "ssl_level": 0.32100000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.3189325,
+    "ssl_level": 0.32200000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.351939,
+    "ssl_level": 0.32300000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.3829463,
+    "ssl_level": 0.32400000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.4149537,
+    "ssl_level": 0.32500000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.4479604,
+    "ssl_level": 0.32600000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.4809687,
+    "ssl_level": 0.32700000000000023,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.5099752,
+    "ssl_level": 0.32800000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.540982,
+    "ssl_level": 0.32900000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.5739894,
+    "ssl_level": 0.33000000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.6049974,
+    "ssl_level": 0.33100000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.638004,
+    "ssl_level": 0.33200000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.6700113,
+    "ssl_level": 0.33300000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.702018,
+    "ssl_level": 0.33400000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.734025,
+    "ssl_level": 0.33500000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.767032,
+    "ssl_level": 0.33600000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.7990406,
+    "ssl_level": 0.33700000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.832048,
+    "ssl_level": 0.33800000000000024,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.8610537,
+    "ssl_level": 0.33900000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.8930607,
+    "ssl_level": 0.34000000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.9240682,
+    "ssl_level": 0.34100000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.9570749,
+    "ssl_level": 0.34200000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454817.989082,
+    "ssl_level": 0.34300000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.02209,
+    "ssl_level": 0.34400000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.0530972,
+    "ssl_level": 0.34500000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.0851047,
+    "ssl_level": 0.34600000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.1171112,
+    "ssl_level": 0.34700000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.1511183,
+    "ssl_level": 0.34800000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.1831264,
+    "ssl_level": 0.34900000000000025,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.2151332,
+    "ssl_level": 0.35000000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.2451417,
+    "ssl_level": 0.35100000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.277153,
+    "ssl_level": 0.35200000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.3091538,
+    "ssl_level": 0.35300000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.3411615,
+    "ssl_level": 0.35400000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.3726742,
+    "ssl_level": 0.35500000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.4035308,
+    "ssl_level": 0.35600000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.435528,
+    "ssl_level": 0.35700000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.4674735,
+    "ssl_level": 0.35800000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.4989233,
+    "ssl_level": 0.35900000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.530934,
+    "ssl_level": 0.36000000000000026,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.5629132,
+    "ssl_level": 0.36100000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.5935273,
+    "ssl_level": 0.36200000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.6255348,
+    "ssl_level": 0.36300000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.6585412,
+    "ssl_level": 0.36400000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.689548,
+    "ssl_level": 0.36500000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.7215552,
+    "ssl_level": 0.36600000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.7545629,
+    "ssl_level": 0.36700000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.7855694,
+    "ssl_level": 0.36800000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.817577,
+    "ssl_level": 0.36900000000000027,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.850585,
+    "ssl_level": 0.3700000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.8835921,
+    "ssl_level": 0.3710000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.9145987,
+    "ssl_level": 0.3720000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.9466074,
+    "ssl_level": 0.3730000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454818.9796147,
+    "ssl_level": 0.3740000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.0106206,
+    "ssl_level": 0.3750000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.041628,
+    "ssl_level": 0.3760000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.073635,
+    "ssl_level": 0.3770000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.1056426,
+    "ssl_level": 0.3780000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.1376503,
+    "ssl_level": 0.3790000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.1696582,
+    "ssl_level": 0.3800000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.2006636,
+    "ssl_level": 0.3810000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.2336702,
+    "ssl_level": 0.3820000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.2646775,
+    "ssl_level": 0.3830000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.2976868,
+    "ssl_level": 0.3840000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.3296936,
+    "ssl_level": 0.3850000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.3616996,
+    "ssl_level": 0.3860000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.3927064,
+    "ssl_level": 0.3870000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.424714,
+    "ssl_level": 0.3880000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.4557211,
+    "ssl_level": 0.3890000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.4887283,
+    "ssl_level": 0.3900000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.5197363,
+    "ssl_level": 0.3910000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.552742,
+    "ssl_level": 0.3920000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.58575,
+    "ssl_level": 0.3930000000000003,
+    "reward": 11.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.617757,
+    "ssl_level": 0.3940000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.6477647,
+    "ssl_level": 0.3950000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.6807716,
+    "ssl_level": 0.3960000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.7147787,
+    "ssl_level": 0.3970000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.7447877,
+    "ssl_level": 0.3980000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.7757933,
+    "ssl_level": 0.3990000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.8078003,
+    "ssl_level": 0.4000000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.839807,
+    "ssl_level": 0.4010000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.8718138,
+    "ssl_level": 0.4020000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.9038215,
+    "ssl_level": 0.4030000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.9358282,
+    "ssl_level": 0.4040000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454819.9678364,
+    "ssl_level": 0.4050000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.000843,
+    "ssl_level": 0.4060000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.032851,
+    "ssl_level": 0.4070000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.065859,
+    "ssl_level": 0.4080000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.0968652,
+    "ssl_level": 0.4090000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.1298723,
+    "ssl_level": 0.4100000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.159879,
+    "ssl_level": 0.4110000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.192886,
+    "ssl_level": 0.4120000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.2228928,
+    "ssl_level": 0.4130000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.255409,
+    "ssl_level": 0.4140000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.286416,
+    "ssl_level": 0.4150000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.3184233,
+    "ssl_level": 0.4160000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.351431,
+    "ssl_level": 0.4170000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.3844383,
+    "ssl_level": 0.4180000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.416446,
+    "ssl_level": 0.4190000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.4484868,
+    "ssl_level": 0.4200000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.4794898,
+    "ssl_level": 0.4210000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.5094962,
+    "ssl_level": 0.4220000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.541503,
+    "ssl_level": 0.4230000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.573511,
+    "ssl_level": 0.4240000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.606518,
+    "ssl_level": 0.4250000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.6365244,
+    "ssl_level": 0.4260000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.6685321,
+    "ssl_level": 0.4270000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.7015393,
+    "ssl_level": 0.4280000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.7335465,
+    "ssl_level": 0.4290000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.7654552,
+    "ssl_level": 0.4300000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.7964613,
+    "ssl_level": 0.4310000000000003,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.82847,
+    "ssl_level": 0.43200000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.8594792,
+    "ssl_level": 0.43300000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.8914883,
+    "ssl_level": 0.43400000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.9234936,
+    "ssl_level": 0.43500000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.9555812,
+    "ssl_level": 0.43600000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454820.9875891,
+    "ssl_level": 0.43700000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.0205948,
+    "ssl_level": 0.43800000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.0516026,
+    "ssl_level": 0.43900000000000033,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.08661,
+    "ssl_level": 0.44000000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.1186182,
+    "ssl_level": 0.44100000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.1486702,
+    "ssl_level": 0.44200000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.1816766,
+    "ssl_level": 0.44300000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.2146852,
+    "ssl_level": 0.44400000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.243691,
+    "ssl_level": 0.44500000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.275698,
+    "ssl_level": 0.44600000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.3097064,
+    "ssl_level": 0.44700000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.340713,
+    "ssl_level": 0.44800000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.3717191,
+    "ssl_level": 0.44900000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.4034903,
+    "ssl_level": 0.45000000000000034,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.435498,
+    "ssl_level": 0.45100000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.4695406,
+    "ssl_level": 0.45200000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.4986293,
+    "ssl_level": 0.45300000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.5307105,
+    "ssl_level": 0.45400000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.5606573,
+    "ssl_level": 0.45500000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.5936987,
+    "ssl_level": 0.45600000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.6247046,
+    "ssl_level": 0.45700000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.6577168,
+    "ssl_level": 0.45800000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.6882734,
+    "ssl_level": 0.45900000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.7202804,
+    "ssl_level": 0.46000000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.7542512,
+    "ssl_level": 0.46100000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.7842577,
+    "ssl_level": 0.46200000000000035,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.8149161,
+    "ssl_level": 0.46300000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.8489237,
+    "ssl_level": 0.46400000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.8799303,
+    "ssl_level": 0.46500000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.910938,
+    "ssl_level": 0.46600000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.9439461,
+    "ssl_level": 0.46700000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454821.9749527,
+    "ssl_level": 0.46800000000000036,
+    "reward": 6.15,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.0059597,
+    "ssl_level": 0.46900000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.037966,
+    "ssl_level": 0.47000000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.069973,
+    "ssl_level": 0.47100000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.1019812,
+    "ssl_level": 0.47200000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.1339881,
+    "ssl_level": 0.47300000000000036,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.1669946,
+    "ssl_level": 0.47400000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.2000027,
+    "ssl_level": 0.47500000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.2310092,
+    "ssl_level": 0.47600000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.2620173,
+    "ssl_level": 0.47700000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.2950244,
+    "ssl_level": 0.47800000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.3270314,
+    "ssl_level": 0.47900000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.359038,
+    "ssl_level": 0.48000000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.389045,
+    "ssl_level": 0.48100000000000037,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  },
+  {
+    "timestamp": 1756454822.422053,
+    "ssl_level": 0.4820000000000004,
+    "reward": 1.1500000000000001,
+    "bot_enabled": true
+  }
+]

@@ -1,4 +1,10 @@
-# Python
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,83 +27,25 @@ wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-*.manifest
-*.spec
+# Training outputs
+checkpoints/
+logs/
+outputs/
+models/
+saves/
+*.pkl
+*.pth
+*.pt
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
+# Weights & Biases
+wandb/
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# pyenv
-.python-version
-
-# celery beat schedule file
-celerybeat-schedule
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
+# Environment variables
 .env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+.env.local
 
 # IDE
 .vscode/
@@ -115,19 +63,14 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-*.pkl
-*.pt
-*.json
-dump.rdb
-redis.zip
-wandb/
-models/
-pretrained_agents/
-submodels/
-test_models/
-training_*/
-test_files/
-rlviser-master/
-rocket-learn-master/
-redis/
+# RLGym specific
+*.log
+*.tmp
+temp/
+
+# PyTorch Lightning
+lightning_logs/
+
+# TensorBoard
+runs/
+tb_logs/

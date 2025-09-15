@@ -1,0 +1,32 @@
+{
+  "bronze": {
+    "total_reward": 1.882167830574935,
+    "episode_count": 100,
+    "avg_reward": 0.01882167830574935,
+    "best_reward": 0.4970263246039276
+  },
+  "silver": {
+    "total_reward": 6.7305393294367954,
+    "episode_count": 150,
+    "avg_reward": 0.044870262196245306,
+    "best_reward": 0.4895004886535548
+  },
+  "gold": {
+    "total_reward": 1.9535651251784971,
+    "episode_count": 200,
+    "avg_reward": 0.009767825625892486,
+    "best_reward": 0.479718017154498
+  },
+  "platinum": {
+    "total_reward": 0.1115216566369368,
+    "episode_count": 250,
+    "avg_reward": 0.0004460866265477472,
+    "best_reward": 0.4998012534091659
+  },
+  "diamond": {
+    "total_reward": 3.1286688898671966,
+    "episode_count": 51,
+    "avg_reward": 0.06134644882092542,
+    "best_reward": 0.4776029092425138
+  }
+}
